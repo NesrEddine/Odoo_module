@@ -10,5 +10,5 @@
 #### student
 #### subject
 
-## Create a forms and clculated fields ( Number of prof	,Number of student	,Number of subject)
+## Create a forms and calculated fields ( Number of prof	,Number of student	,Number of subject)
 
